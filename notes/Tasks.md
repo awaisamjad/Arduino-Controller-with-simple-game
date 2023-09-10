@@ -1,0 +1,6 @@
+- Setup joystick and its inputs/outputs
+- Setup buttons and their inputs/outputs
+- Create Arduino blueprint at end
+- Import into python and make a game using pygame
+- Use the inputs from the joystick and buttons for character movements
+- 
